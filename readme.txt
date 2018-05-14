@@ -1,1 +1,1 @@
-reating a new branch is quick AND simple.
+ireating a new branch is quick AND simple.
